@@ -63,4 +63,4 @@ WPA_SUPPLICANT_VERSION      := VER_0_8_X
 WIFI_BUS := PCIE
 
 # Inherit from the proprietary version
--include vendor/sony/sumire/BoardConfigVendor.mk
+-include vendor/sony/suzuran/BoardConfigVendor.mk
